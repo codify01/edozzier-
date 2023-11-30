@@ -13,10 +13,10 @@ ul{
 }
 .navBar {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     /* gap: 10%; */
-    /* background-color: white; */
+    background-color: white;
     position: fixed;
     top: 0px;
     width: 100%;
