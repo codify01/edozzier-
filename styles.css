@@ -22,6 +22,16 @@ ul{
     width: 100%;
     padding: 20px;
 }
+.card {
+    margin-bottom: 20px;
+}
+.card:hover {
+    background-color: #0f0b47 !important;
+    color: #fff;
+}
+.card-subtitle {
+    border-bottom: 1px solid goldenrod;
+}
 .isHere {
     background-color: #d0d9fd;
     display: inline;
@@ -34,4 +44,11 @@ ul{
 a {
     text-decoration: none !important;
     color: #0f0b47 !important;
+}
+.edozzier-app {
+    object-fit: cover;
+}
+.sec3 {
+    background-color: #ebedff;
+    padding: 10%;
 }
