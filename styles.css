@@ -27,7 +27,7 @@ ul{
 }
 .card:hover {
     background-color: #0f0b47 !important;
-    color: #fff;
+    color: #fff !important;
 }
 .card-subtitle {
     border-bottom: 1px solid goldenrod;
